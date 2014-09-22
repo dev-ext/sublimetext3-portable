@@ -1,0 +1,24 @@
+{
+	"auto_upgrade": false,
+	"installed_packages":
+	[
+		"auto-save",
+		"AutoFileName",
+		"Better Completion",
+		"CodeFormatter",
+		"CSS Extended Completions",
+		"CSS Format",
+		"CSS3",
+		"DocBlockr",
+		"Emmet",
+		"Git GUI Clients",
+		"HTML Boilerplate",
+		"HTML Compressor",
+		"HTMLBeautify",
+		"Predawn",
+		"Reindent on save",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"W3CValidators"
+	]
+}

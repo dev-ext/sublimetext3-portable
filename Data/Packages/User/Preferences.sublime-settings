@@ -1,0 +1,22 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "qazwsxedcrfvtgbyhnujmikolpQAZWSXEDCRFVTGBYHNUJMIKOLP",
+			"selector": "text, source, meta, string, punctuation, constant"
+		}
+	],
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"command": "reindent",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"D:\\Prosenjit\\Project\\root\\sprint-lease\\wordpress\\email-template*"
+	],
+	"word_wrap": true
+}
