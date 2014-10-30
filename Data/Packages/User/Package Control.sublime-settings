@@ -2,8 +2,10 @@
 	"auto_upgrade": false,
 	"installed_packages":
 	[
+		"AngularJS",
 		"auto-save",
 		"AutoFileName",
+		"Backbone.js",
 		"Better Completion",
 		"CodeFormatter",
 		"CSS Extended Completions",
@@ -14,11 +16,16 @@
 		"Git GUI Clients",
 		"HTML Boilerplate",
 		"HTML Compressor",
+		"HTML Underscore Syntax",
 		"HTMLBeautify",
 		"Predawn",
 		"Reindent on save",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"W3CValidators"
+		"Theme - Brogrammer",
+		"Theme - Piatto",
+		"Underscorejs snippets",
+		"W3CValidators",
+		"WordPress"
 	]
 }
