@@ -23,11 +23,23 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 0.0,
+				"height": 219.0,
 				"selected_items":
 				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Upgrade Package"
+					]
 				],
-				"width": 0.0
+				"width": 472.0
 			},
 			"console":
 			{
