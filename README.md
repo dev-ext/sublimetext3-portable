@@ -1,3 +1,3 @@
 # sublimetext3-portable
 ## Package list 
- sublimetext3-portable/Data/Packages/User/Package Control.sublime-settings
+ https://github.com/developer-prosenjit/sublimetext3-portable/blob/master/Data/Packages/User/Package%20Control.sublime-settings
